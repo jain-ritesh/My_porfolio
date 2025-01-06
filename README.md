@@ -2,10 +2,6 @@
 
 Welcome to my portfolio website! This project showcases my skills, projects, and services as a developer. The website is designed to provide an engaging and interactive experience for visitors, with sections highlighting my expertise, completed projects, and ways to get in touch.
 
-## Live Demo
-
-Explore the live version of my portfolio: [Portfolio Website](https://riteshjain.netlify.app/)
-
 ## Features
 
 - **Home Page**: A welcoming introduction with a brief overview.
